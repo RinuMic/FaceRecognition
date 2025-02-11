@@ -1,7 +1,8 @@
 cmake
-dlib
-streamlit 
-opencv-python 
-face-recognition 
+dlib==19.24.1
+streamlit
+opencv-python
+face-recognition
 numpy
 Pillow
+
