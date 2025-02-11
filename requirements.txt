@@ -1,3 +1,5 @@
+cmake
+dlib
 streamlit 
 opencv-python 
 face-recognition 
